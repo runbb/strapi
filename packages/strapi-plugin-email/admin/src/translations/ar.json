@@ -1,4 +1,14 @@
 {
-  "plugin.description.short": "إرسال بريد.",
-  "plugin.description.long": "إرسال بريد."
+  "ConfigPage.title": "البريد الإلكتروني - الإعدادات",
+  "ConfigPage.description": "تكوين المكون الإضافي للبريد الإلكتروني",
+
+  "EditForm.Input.number.label": "الحد الأقصى للحجم مسموح (بالميغابايت MB)",
+  "EditForm.Input.select.label": "المزودين",
+  "EditForm.Input.select.inputDescription": "يمكن إرسال رسائل البريد الإلكتروني مع الموفر الافتراضي (Sendmail) أو موفر خارجي",
+  "EditForm.Input.toggle.label": "تمكين إرسال البريد الإلكتروني",
+
+  "plugin.description.short": "إرسال رسائل البريد الإلكتروني.",
+  "plugin.description.long": "إرسال رسائل البريد الإلكتروني.",
+
+  "notification.config.success": "تم تحديث الإعدادات"
 }
